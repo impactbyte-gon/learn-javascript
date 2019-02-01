@@ -1,3 +1,14 @@
-console.log("Hello World!")
+console.log('Address Book')
 
-document.write("<p>Hello World!</p>")
+let contacts = [
+  {
+    name: 'Haidar',
+    phone: '+62-8-1993-101010',
+    email: 'mhaidarhanif@gmail.com'
+  },
+  {
+    name: 'Tony',
+    phone: '+1-8-1993-101010',
+    email: 'tony@stark.com'
+  }
+]
